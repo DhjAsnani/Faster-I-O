@@ -15,6 +15,7 @@ int main()
     int n,k;
     fastinputint(n);
     fastinputint(k);
+    int cyris;
     int cnt=0;
     while(n--)
     {
